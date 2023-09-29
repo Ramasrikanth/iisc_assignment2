@@ -11,3 +11,6 @@ Hi.
 6. Review and merge the pull request
 7. Verify if the main branch has the commits from the other branch
 
+## Current branches
+- main
+- feature
