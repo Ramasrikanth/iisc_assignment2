@@ -1,5 +1,7 @@
 # Assignment/Lab 1
 
+Hi.
+
 ## Steps
 1. Create a github repository
 2. Clone the repository in your local system
