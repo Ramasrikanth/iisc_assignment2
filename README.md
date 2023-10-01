@@ -14,3 +14,6 @@ Hi.
 ## Current branches
 - main
 - feature
+
+## Resolve merge conflicts
+- Resolve feature branch conflicts
